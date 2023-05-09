@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba 👋, ben Mehmetcan</h1>
 <h3 align="center">TÜRKİYE'den tutkulu bir önyüz geliştiricisi</h3>
-<img align="right" alt="coding" widht="100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" widht="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=mehmetcantunc&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetcantunc" /> </p>
